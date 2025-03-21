@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Montserrat';
-    src: url('...main/fonts/Montserrat.ttf') format('truetype'),
-         url('...main/fonts/Montserrat.ttf') format('truetype');
+    src: url('main/fonts/Montserrat.ttf') format('truetype'),
+         url('main/fonts/Montserrat.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
