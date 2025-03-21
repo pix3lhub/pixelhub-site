@@ -28,7 +28,13 @@ body {
 }
 
 .mobile-header {
-    display: none;
+    background-color: #b3e6b3;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    margin: 20px;
 }
 
 .header div {
