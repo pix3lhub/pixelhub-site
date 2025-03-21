@@ -33,9 +33,17 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10px;
-    height: auto;
+    min-height: 50px; /* Минимальная высота для десктопа */
+    text-align: center;
 }
 
+/* Для мобильных устройств */
+@media (max-width: 768px) {
+    .navbar {
+        min-height: 80px; /* Увеличенная высота для мобильных */
+        padding: 15px;
+    }
+}
 
 .header div {
     font-size: 18px;
