@@ -27,16 +27,6 @@ body {
     margin: 10px;
 }
 
-.tablet-header {
-    background-color: #b3e6b3;
-    padding: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-radius: 15px;
-    margin: 10px;
-}
-
 .mobile-header {
     background-color: #b3e6b3;
     padding: 15px;
