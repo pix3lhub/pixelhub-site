@@ -34,7 +34,7 @@ body {
     justify-content: space-between;
     align-items: center;
     border-radius: 15px;
-    margin: 12px;
+    margin: 8px;
     min-height: 90px; /* Увеличиваем высоту панели */
     flex-wrap: wrap; /* Позволяет перенос элементов */
     position: relative; /* Чтобы можно было корректно перемещать элементы */
