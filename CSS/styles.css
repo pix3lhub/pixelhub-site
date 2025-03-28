@@ -25,15 +25,12 @@ body {
     align-items: center;
     border-radius: 15px;
     margin: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .header div {
     font-size: 18px;
     font-weight: 500;
-}
-
-.header {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .menu {
