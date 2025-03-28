@@ -45,7 +45,7 @@ body {
 }
 
 .menu a:hover {
-    color: white;
+    color: white !important;
     transition: color 0.3s ease;
 }
 
